@@ -10,7 +10,7 @@ Exercício da Faculdade sobre cadastramento de pessoas em lojas
 
 #include <string.h>
 
-#include"listasstr2.h"
+#include"Blibioteca.h"
 
 
 typedef struct{
