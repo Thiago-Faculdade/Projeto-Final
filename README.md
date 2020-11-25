@@ -3,10 +3,15 @@ Exercício da Faculdade sobre cadastramento de pessoas em lojas
 
 
 #include <stdio.h> 
+
 #include <stdlib.h>
+
 #include <locale.h>
+
 #include <string.h>
+
 #include"listasstr2.h"
+
 
 typedef struct{
 	char Nome[30];
