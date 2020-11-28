@@ -1,6 +1,6 @@
 #include<iostream>
 #include<locale.h>
-#include"listasstr2.h"
+#include"Blibioteca2.h"
 
 typedef struct
 {
